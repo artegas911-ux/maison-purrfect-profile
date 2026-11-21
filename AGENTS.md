@@ -28,3 +28,7 @@ use the editor.
   own key and store it in Secrets.
 - **Secrets.** Lovable manages them. Do not put secret values in the repo.
 <!-- LOVABLE:END -->
+
+## Project rules
+- Social link targets live in `src/lib/social-links.ts` and are covered by `src/test/social-links.test.ts`; why: one place to change links, with tests guarding them.
+- Brand icons come from `react-icons/fa6`; why: lucide has no Telegram/TikTok/Steam/Discord marks.
