@@ -1,26 +1,32 @@
 # Maison Purrfect Profile
 
-Implement exactly the screenshot and nothing else
+# Personal Link-in-Bio & Digital Business Card
 
-This project was built with [Lovable](https://lovable.dev).
+A sleek, responsive personal landing page and digital business card built as part of my portfolio for **IT-Ausbildung** applications.
 
-**Live app**: https://maison-purrfect-profile.lovable.app
+🔗 **Live Demo:** https://maison-purrfect-profile.lovable.app
 
-## Build with Lovable
+## ✨ Features
 
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/d2801389-9c43-45d1-86d9-589519b4a1ef).
+- **Dark-Mode Aesthetic:** High-contrast, automotive-inspired monochrome UI.
+- **Quick Social Hub:** Direct access to TikTok, Instagram, Telegram, and Steam profiles.
+- **One-Click Discord Copy:** Instant copy-to-clipboard functionality for my Discord handle with visual feedback.
+- **Fully Responsive:** Optimized for both mobile and desktop screens.
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: every change made in Lovable is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
+## 🛠 Tech Stack
 
-## Development
+- **Framework:** React + TypeScript
+- **Styling:** Tailwind CSS
+- **Tooling:** Vite
 
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
+## 🚀 Getting Started
 
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
+```bash
+# Clone the repository
+git clone [https://github.com/](https://github.com/)<your-username>/<your-repo-name>.git
+
+# Install dependencies
+npm install
+
+# Start the development server
 npm run dev
-```
